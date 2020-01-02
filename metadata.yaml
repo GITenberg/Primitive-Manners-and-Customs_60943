@@ -1,5 +1,8 @@
 _repo: Primitive-Manners-and-Customs_60943
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60943-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrer, James Anson
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35293
     wikipedia: https://en.wikipedia.org/wiki/James_Anson_Farrer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60943#Primitive-Manners-and-Customs
 gutenberg_issued: '2019-12-17'
 gutenberg_type: Text
 identifiers:
